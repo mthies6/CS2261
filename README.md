@@ -1,2 +1,2 @@
-# cs2261
-homework and projects for Georgia Tech CS 2261 spring 2023
+# CS2261: Media Device Architecture 
+Homework and projects for CS 2261 spring 2023
