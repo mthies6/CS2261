@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "print.h": "c",
+        "font.h": "c",
+        "spritesheet.h": "c"
+    }
+}
